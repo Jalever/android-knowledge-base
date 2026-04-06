@@ -46,8 +46,16 @@
 ## 04 - 串口通信（Serial Communication）
 
 - [概要：串口通信](04-串口通信serial-communication/00-概要overview.md) 🚧
-- [串口基础与协议](04-串口通信serial-communication/01-串口基础serial-port-basics.md) 🚧
-- [Android 串口实现方案](04-串口通信serial-communication/02-Android串口实现android-serial-impl.md) 🚧
+- [串口基础知识](04-串口通信serial-communication/01-串口基础知识serial-fundamentals.md) 📋
+- [协议设计与数据解析](04-串口通信serial-communication/02-协议设计与数据解析protocol-design-and-parsing.md) 📋
+- [USB 转串口方案](04-串口通信serial-communication/03-USB转串口方案usb-serial-implementation.md) 📋
+- [原生串口方案](04-串口通信serial-communication/04-原生串口方案native-serial-jni.md) 📋
+- [USB 设备管理与权限](04-串口通信serial-communication/05-USB设备管理与权限usb-device-and-permissions.md) 📋
+- [通信架构设计](04-串口通信serial-communication/06-通信架构设计communication-architecture.md) 📋
+- [多设备与通道管理](04-串口通信serial-communication/07-多设备与通道管理multi-device-management.md) 📋
+- [通信稳定性与错误处理](04-串口通信serial-communication/08-通信稳定性与错误处理communication-stability.md) 📋
+- [性能优化](04-串口通信serial-communication/09-性能优化performance-optimization.md) 📋
+- [调试与问题排查](04-串口通信serial-communication/10-调试与问题排查debugging-and-troubleshooting.md) 📋
 
 ## 05 - 系统稳定性（System Stability）
 
