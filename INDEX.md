@@ -60,8 +60,16 @@
 ## 05 - 系统稳定性（System Stability）
 
 - [概要：系统稳定性](05-系统稳定性system-stability/00-概要overview.md) 🚧
-- [死机检测与重启恢复](05-系统稳定性system-stability/01-死机重启恢复crash-recovery.md) 🚧
-- [稳定性调试方法论](05-系统稳定性system-stability/02-稳定性调试stability-debugging.md) 🚧
+- [Crash 基础与分类](05-系统稳定性system-stability/01-Crash基础与分类crash-fundamentals.md) 📋
+- [ANR 深度解析](05-系统稳定性system-stability/02-ANR深度解析anr-deep-analysis.md) 📋
+- [内存稳定性与 OOM](05-系统稳定性system-stability/03-内存稳定性与OOMmemory-stability-and-oom.md) 📋
+- [Native Crash 与 Tombstone 分析](05-系统稳定性system-stability/04-NativeCrash与Tombstone分析native-crash-and-tombstone.md) 📋
+- [Crash 采集与上报](05-系统稳定性system-stability/05-Crash采集与上报crash-collection-and-reporting.md) 📋
+- [Watchdog 与系统级监控](05-系统稳定性system-stability/06-Watchdog与系统级监控watchdog-and-system-monitoring.md) 📋
+- [异常恢复与容错设计](05-系统稳定性system-stability/07-异常恢复与容错设计exception-recovery-and-fault-tolerance.md) 📋
+- [稳定性调试工具链](05-系统稳定性system-stability/08-稳定性调试工具链stability-debugging-toolchain.md) 📋
+- [线上稳定性治理](05-系统稳定性system-stability/09-线上稳定性治理online-stability-governance.md) 📋
+- [稳定性测试与防劣化](05-系统稳定性system-stability/10-稳定性测试与防劣化stability-testing-and-regression.md) 📋
 
 ## 06 - WiFi 连接稳定性（WiFi Stability）
 
@@ -75,3 +83,11 @@
 - [内存优化](07-性能优化performance-optimization/01-内存优化memory-optimization.md) 🚧
 - [UI 渲染性能](07-性能优化performance-optimization/02-UI渲染性能ui-rendering-performance.md) 🚧
 - [启动优化](07-性能优化performance-optimization/03-启动优化app-startup-optimization.md) 🚧
+- [卡顿检测与优化](07-性能优化performance-optimization/04-卡顿检测与优化jank-detection-and-optimization.md) 📋
+- [网络性能优化](07-性能优化performance-optimization/05-网络性能优化network-performance-optimization.md) 📋
+- [包体积优化](07-性能优化performance-optimization/06-包体积优化apk-size-optimization.md) 📋
+- [功耗优化](07-性能优化performance-optimization/07-功耗优化battery-optimization.md) 📋
+- [IO 与存储性能](07-性能优化performance-optimization/08-IO与存储性能io-and-storage-performance.md) 📋
+- [多线程与协程性能](07-性能优化performance-optimization/09-多线程与协程性能threading-and-coroutine-performance.md) 📋
+- [Compose 性能优化](07-性能优化performance-optimization/10-Compose性能优化compose-performance.md) 📋
+- [性能监控与 CI 集成](07-性能优化performance-optimization/11-性能监控与CI集成performance-monitoring-and-ci.md) 📋
