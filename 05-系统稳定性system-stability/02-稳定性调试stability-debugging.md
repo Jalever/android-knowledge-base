@@ -4,7 +4,7 @@
 作者: <团队共建>
 状态: 进行中
 前置知识: Android 进程模型、Linux 信号机制基础、ADB 基本操作
-关联模块: 05-系统稳定性/00-overview、05-系统稳定性/01-crash-recovery、07-性能优化
+关联模块: 05-系统稳定性system-stability/00-概要overview、05-系统稳定性system-stability/01-死机重启恢复crash-recovery、07-性能优化performance-optimization
 ---
 
 # 稳定性调试方法论

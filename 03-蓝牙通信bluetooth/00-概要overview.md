@@ -77,5 +77,5 @@ flowchart TD
 建议按以下顺序阅读本模块文档：
 
 1. **本文**（`00-overview.md`）— 建立全局认知
-2. [`01-ble-communication.md`](01-ble-communication.md) — BLE 低功耗蓝牙详解
-3. [`02-classic-bluetooth-master-slave.md`](02-classic-bluetooth-master-slave.md) — 经典蓝牙主从模式详解
+2. [`01-BLE低功耗蓝牙ble-communication.md`](01-BLE低功耗蓝牙ble-communication.md) — BLE 低功耗蓝牙详解
+3. [`02-经典蓝牙主从模式classic-bluetooth-master-slave.md`](02-经典蓝牙主从模式classic-bluetooth-master-slave.md) — 经典蓝牙主从模式详解

@@ -4,7 +4,7 @@
 作者: <团队共建>
 状态: 进行中
 前置知识: 串口通信概要（00-overview.md）、基础电子电路知识
-关联模块: 03-蓝牙通信、04-串口通信/02-android-serial-impl
+关联模块: 03-蓝牙通信bluetooth、04-串口通信serial-communication/02-Android串口实现android-serial-impl
 ---
 
 # 串口基础与协议详情
@@ -385,4 +385,4 @@ class ProtocolParser(
 - [RS-485 标准 - Wikipedia](https://en.wikipedia.org/wiki/RS-485)
 - [Modbus 协议规范](https://modbus.org/specs.php)
 - [串口通信基础 - SparkFun](https://learn.sparkfun.com/tutorials/serial-communication)
-- [Android 串口通信实战指南](02-android-serial-impl.md) — 本模块下一篇
+- [Android 串口通信实战指南](02-Android串口实现android-serial-impl.md) — 本模块下一篇

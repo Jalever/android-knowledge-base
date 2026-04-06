@@ -120,6 +120,6 @@ flowchart LR
 建议按以下顺序阅读本模块文档：
 
 1. **本文**（`00-overview.md`）— 建立性能优化全局认知
-2. [`01-memory-optimization.md`](01-memory-optimization.md) — 内存优化：泄漏检测、Bitmap 优化、OOM 防治
-3. [`02-ui-rendering-performance.md`](02-ui-rendering-performance.md) — 渲染性能：掉帧分析、布局优化、RecyclerView 调优
-4. [`03-app-startup-optimization.md`](03-app-startup-optimization.md) — 启动优化：耗时分析、异步初始化、Baseline Profile
+2. [`01-内存优化memory-optimization.md`](01-内存优化memory-optimization.md) — 内存优化：泄漏检测、Bitmap 优化、OOM 防治
+3. [`02-UI渲染性能ui-rendering-performance.md`](02-UI渲染性能ui-rendering-performance.md) — 渲染性能：掉帧分析、布局优化、RecyclerView 调优
+4. [`03-启动优化app-startup-optimization.md`](03-启动优化app-startup-optimization.md) — 启动优化：耗时分析、异步初始化、Baseline Profile

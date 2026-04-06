@@ -4,7 +4,7 @@
 作者: <团队共建>
 状态: 进行中
 前置知识: Android Gradle 构建基础、OkHttp/Retrofit 基础
-关联模块: 01-internationalization/00-overview
+关联模块: 01-国际化internationalization/00-概要overview
 ---
 
 # 后端环境切换

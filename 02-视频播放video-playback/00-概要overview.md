@@ -72,7 +72,7 @@ timeline
 | VLC Android | 基于 libVLC | 全格式支持、跨平台 | 万能播放器需求 |
 | GSYVideoPlayer | 封装层 | 开箱即用、多播放器内核可切换 | 快速开发、功能导向的项目 |
 
-> 详细对比见 [01-播放器方案对比](01-media-player-comparison.md)
+> 详细对比见 [01-播放器方案对比](01-播放器方案对比media-player-comparison.md)
 
 ## 适用场景与选型建议
 

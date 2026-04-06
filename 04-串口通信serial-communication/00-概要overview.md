@@ -88,8 +88,8 @@ flowchart TD
 建议按以下顺序阅读本模块文档：
 
 1. **本文（概要）** → 建立全局认知
-2. [串口基础与协议详情](01-serial-port-basics.md) → 理解底层协议与数据格式
-3. [Android 串口实现方案](02-android-serial-impl.md) → 进入实战开发
+2. [串口基础与协议详情](01-串口基础serial-port-basics.md) → 理解底层协议与数据格式
+3. [Android 串口实现方案](02-Android串口实现android-serial-impl.md) → 进入实战开发
 
 ```mermaid
 graph LR

@@ -71,5 +71,5 @@ Android 5.0 引入 `ConnectivityManager.NetworkCallback`，取代旧的 `CONNECT
 建议按以下顺序阅读本模块文档：
 
 1. **本文**（`00-overview.md`）— 建立 WiFi 连接管理的全局认知
-2. [`01-wifi-connection-management.md`](01-wifi-connection-management.md) — WiFi 扫描、连接 API、状态监听的完整指南
-3. [`02-wifi-troubleshooting.md`](02-wifi-troubleshooting.md) — 断连原因分析、日志排查方法与自动重连策略
+2. [`01-WiFi连接管理wifi-connection-management.md`](01-WiFi连接管理wifi-connection-management.md) — WiFi 扫描、连接 API、状态监听的完整指南
+3. [`02-断连排查与重连wifi-troubleshooting.md`](02-断连排查与重连wifi-troubleshooting.md) — 断连原因分析、日志排查方法与自动重连策略

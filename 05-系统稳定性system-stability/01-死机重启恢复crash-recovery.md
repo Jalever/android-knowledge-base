@@ -4,7 +4,7 @@
 作者: <团队共建>
 状态: 进行中
 前置知识: Android 系统启动流程（Zygote / SystemServer）、四大组件生命周期、Kotlin 协程基础
-关联模块: 05-系统稳定性/00-overview、07-性能优化
+关联模块: 05-系统稳定性system-stability/00-概要overview、07-性能优化performance-optimization
 ---
 
 # 死机检测与重启恢复

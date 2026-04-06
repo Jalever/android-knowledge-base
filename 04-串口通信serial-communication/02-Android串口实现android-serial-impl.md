@@ -688,4 +688,4 @@ fun registerDetachListener(context: Context, onDetached: (UsbDevice) -> Unit) {
 - [android-serialport-api - GitHub](https://github.com/cereal-killers/android-serialport-api)
 - [Android USB Host API 官方文档](https://developer.android.com/develop/connectivity/usb/host)
 - [USB CDC/ACM 规范](https://www.usb.org/document-library/class-definitions-communication-devices-12)
-- [串口基础与协议详情](01-serial-port-basics.md) — 本模块上一篇
+- [串口基础与协议详情](01-串口基础serial-port-basics.md) — 本模块上一篇

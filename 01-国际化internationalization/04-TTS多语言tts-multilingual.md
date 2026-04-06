@@ -4,7 +4,7 @@
 作者: <团队共建>
 状态: 进行中
 前置知识: Android 基础开发、多媒体基础
-关联模块: 01-internationalization/00-overview, 01-internationalization/01-string-translation
+关联模块: 01-国际化internationalization/00-概要overview, 01-国际化internationalization/01-字符串翻译string-translation
 ---
 
 # TTS 多语言语音合成

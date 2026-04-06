@@ -4,7 +4,7 @@
 作者: <团队共建>
 状态: 进行中
 前置知识: Android 资源管理基础、Kotlin 基础
-关联模块: 01-internationalization/00-overview
+关联模块: 01-国际化internationalization/00-概要overview
 ---
 
 # 字符串与翻译机制
