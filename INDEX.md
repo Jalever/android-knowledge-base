@@ -9,10 +9,16 @@
 ## 01 - 国际化（Internationalization）
 
 - [概要：国际化](01-国际化internationalization/00-概要overview.md) 🚧
-- [字符串与翻译机制](01-国际化internationalization/01-字符串翻译string-translation.md) 🚧
-- [RTL 布局适配](01-国际化internationalization/02-布局适配layout-adaptation.md) 🚧
-- [后端环境切换](01-国际化internationalization/03-后端环境切换backend-env-switching.md) 🚧
-- [TTS 多语言语音合成](01-国际化internationalization/04-TTS多语言tts-multilingual.md) 🚧
+- [Locale 与资源加载机制](01-国际化internationalization/01-Locale与资源加载机制locale-and-resource-loading.md) 📋
+- [字符串与翻译管理](01-国际化internationalization/02-字符串与翻译管理string-and-translation-management.md) 📋
+- [动态语言切换](01-国际化internationalization/03-动态语言切换dynamic-language-switching.md) 📋
+- [RTL 布局适配](01-国际化internationalization/04-RTL布局适配rtl-layout-adaptation.md) 📋
+- [日期时间与数字格式化](01-国际化internationalization/05-日期时间与数字格式化date-time-number-formatting.md) 📋
+- [资源本地化与按需分发](01-国际化internationalization/06-资源本地化与按需分发asset-localization-and-delivery.md) 📋
+- [Compose 国际化实践](01-国际化internationalization/07-Compose国际化实践compose-internationalization.md) 📋
+- [翻译平台与工程化集成](01-国际化internationalization/08-翻译平台与工程化集成translation-platform-and-engineering.md) 📋
+- [多语言测试与质量保障](01-国际化internationalization/09-多语言测试与质量保障i18n-testing-and-quality.md) 📋
+- [调试与常见问题排查](01-国际化internationalization/10-调试与常见问题排查i18n-debugging-and-troubleshooting.md) 📋
 
 ## 02 - 视频播放（Video Playback）
 
