@@ -16,15 +16,17 @@
 
 ## 02 - 视频播放（Video Playback）
 
-- [概要：视频播放](02-视频播放video-playback/00-概要overview.md) 🚧
-- [播放器方案对比](02-视频播放video-playback/01-播放器方案对比media-player-comparison.md) 🚧
-- [ExoPlayer / Media3 详解](02-视频播放video-playback/02-ExoPlayer详解exoplayer-guide.md) 🚧
-- [视频性能与硬解码](02-视频播放video-playback/03-视频性能video-performance.md) 🚧
-- [流媒体协议](02-视频播放video-playback/04-流媒体协议streaming-protocols.md) 📋
-- [视频缓存与离线](02-视频播放video-playback/05-视频缓存与离线video-cache-offline.md) 📋
-- [MediaCodec 底层编解码](02-视频播放video-playback/06-MediaCodec底层编解码mediacodec-deep-dive.md) 📋
-- [视频 UI 交互](02-视频播放video-playback/07-视频UI交互video-ui-interaction.md) 📋
-- [字幕与多音轨](02-视频播放video-playback/08-字幕与多音轨subtitle-multi-audio.md) 📋
+- [概要：视频播放](02-视频播放video-playback/00-概要overview.md) 📋
+- [视频基础知识](02-视频播放video-playback/01-视频基础知识video-fundamentals.md) 📋
+- [播放器选型](02-视频播放video-playback/02-播放器选型player-selection.md) 📋
+- [Media3 实战](02-视频播放video-playback/03-Media3实战media3-in-practice.md) 📋
+- [MediaCodec 编解码](02-视频播放video-playback/04-MediaCodec编解码mediacodec-codec.md) 📋
+- [流媒体协议](02-视频播放video-playback/05-流媒体协议streaming-protocols.md) 📋
+- [播放器 UI 与交互](02-视频播放video-playback/06-播放器UI与交互player-ui-interaction.md) 📋
+- [缓存与离线播放](02-视频播放video-playback/07-缓存与离线播放cache-and-offline.md) 📋
+- [字幕与多音轨](02-视频播放video-playback/08-字幕与多音轨subtitle-and-audio-tracks.md) 📋
+- [DRM 与内容保护](02-视频播放video-playback/09-DRM与内容保护drm-content-protection.md) 📋
+- [性能优化与问题排查](02-视频播放video-playback/10-性能优化与问题排查performance-troubleshooting.md) 📋
 
 ## 03 - 蓝牙通信（Bluetooth）
 

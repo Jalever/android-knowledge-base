@@ -3,7 +3,7 @@
 最后更新: 2026-04-06
 作者: <团队共建>
 状态: 草稿
-前置知识: ExoPlayer 详解（02-ExoPlayer详解exoplayer-guide.md）
+前置知识: 03-Media3实战media3-in-practice
 关联模块: 01-国际化internationalization
 ---
 
@@ -11,19 +11,19 @@
 
 ## 字幕格式
 
-### SRT 格式解析
+### SRT
 
-### WebVTT 格式解析
+### WebVTT
 
-### ASS / SSA 格式解析
+### ASS / SSA
 
-### TTML 格式解析
+### TTML
 
 ### 格式对比与选型建议
 
 ## 字幕加载与集成
 
-### ExoPlayer 内嵌字幕（MKV / MP4 封装）
+### 内嵌字幕（MKV / MP4 封装）
 
 ### 外挂字幕文件加载（SideLoadedMediaSource）
 

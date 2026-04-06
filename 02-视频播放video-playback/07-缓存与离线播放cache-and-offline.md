@@ -3,19 +3,19 @@
 最后更新: 2026-04-06
 作者: <团队共建>
 状态: 草稿
-前置知识: ExoPlayer 详解（02-ExoPlayer详解exoplayer-guide.md）
+前置知识: 03-Media3实战media3-in-practice
 关联模块: 06-WiFi稳定性wifi-stability、07-性能优化performance-optimization
 ---
 
-# 视频缓存与离线
+# 缓存与离线播放
 
 ## 边播边缓存
 
-### ExoPlayer CacheDataSource 配置
-
-### 缓存目录与大小管理
+### Media3 CacheDataSource 配置
 
 ### SimpleCache 使用与注意事项
+
+### 缓存目录与大小管理
 
 ## 离线下载管理
 
@@ -27,13 +27,11 @@
 
 ### 断点续传实现
 
-## 加密缓存与 DRM 离线
+## 加密缓存
 
 ### 缓存文件加密方案
 
-### Widevine 离线许可证获取与续期
-
-### 离线播放权限校验流程
+### 与 DRM 离线许可证的配合
 
 ## 存储空间管理
 

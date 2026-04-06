@@ -3,11 +3,11 @@
 最后更新: 2026-04-06
 作者: <团队共建>
 状态: 草稿
-前置知识: ExoPlayer 详解（02-ExoPlayer详解exoplayer-guide.md）、Android View 体系
+前置知识: 03-Media3实战media3-in-practice、Android View 体系
 关联模块: 07-性能优化performance-optimization
 ---
 
-# 视频 UI 交互
+# 播放器 UI 与交互
 
 ## 自定义播控 UI
 
@@ -21,7 +21,9 @@
 
 ## 全屏与画中画
 
-### 全屏切换实现方案（横竖屏旋转、Activity vs Dialog）
+### 全屏切换实现方案
+
+### 横竖屏旋转处理
 
 ### 画中画（PiP）模式实现
 
@@ -37,7 +39,7 @@
 
 ### 快进快退手势（双击 / 滑动）
 
-### 手势冲突处理（与 ViewPager / RecyclerView）
+### 手势冲突处理（ViewPager / RecyclerView）
 
 ## 列表播放
 
