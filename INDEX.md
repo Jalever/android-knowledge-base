@@ -20,6 +20,11 @@
 - [播放器方案对比](02-视频播放video-playback/01-播放器方案对比media-player-comparison.md) 🚧
 - [ExoPlayer / Media3 详解](02-视频播放video-playback/02-ExoPlayer详解exoplayer-guide.md) 🚧
 - [视频性能与硬解码](02-视频播放video-playback/03-视频性能video-performance.md) 🚧
+- [流媒体协议](02-视频播放video-playback/04-流媒体协议streaming-protocols.md) 📋
+- [视频缓存与离线](02-视频播放video-playback/05-视频缓存与离线video-cache-offline.md) 📋
+- [MediaCodec 底层编解码](02-视频播放video-playback/06-MediaCodec底层编解码mediacodec-deep-dive.md) 📋
+- [视频 UI 交互](02-视频播放video-playback/07-视频UI交互video-ui-interaction.md) 📋
+- [字幕与多音轨](02-视频播放video-playback/08-字幕与多音轨subtitle-multi-audio.md) 📋
 
 ## 03 - 蓝牙通信（Bluetooth）
 
