@@ -31,8 +31,17 @@
 ## 03 - 蓝牙通信（Bluetooth）
 
 - [概要：蓝牙通信](03-蓝牙通信bluetooth/00-概要overview.md) 🚧
-- [BLE 低功耗蓝牙](03-蓝牙通信bluetooth/01-BLE低功耗蓝牙ble-communication.md) 🚧
-- [经典蓝牙主从模式](03-蓝牙通信bluetooth/02-经典蓝牙主从模式classic-bluetooth-master-slave.md) 🚧
+- [蓝牙基础知识](03-蓝牙通信bluetooth/01-蓝牙基础知识bluetooth-fundamentals.md) 📋
+- [权限与兼容性](03-蓝牙通信bluetooth/02-权限与兼容性permissions-and-compatibility.md) 📋
+- [BLE 扫描与广播](03-蓝牙通信bluetooth/03-BLE扫描与广播ble-scan-and-advertise.md) 📋
+- [BLE GATT 通信](03-蓝牙通信bluetooth/04-BLE-GATT通信ble-gatt-communication.md) 📋
+- [BLE 外围模式](03-蓝牙通信bluetooth/05-BLE外围模式ble-peripheral-mode.md) 📋
+- [经典蓝牙通信](03-蓝牙通信bluetooth/06-经典蓝牙通信classic-bluetooth.md) 📋
+- [配对绑定与 CompanionDevice](03-蓝牙通信bluetooth/07-配对绑定与CompanionDevicepairing-and-bonding.md) 📋
+- [蓝牙音频](03-蓝牙通信bluetooth/08-蓝牙音频bluetooth-audio-profiles.md) 📋
+- [BLE OTA 固件升级](03-蓝牙通信bluetooth/09-BLE-OTA固件升级ble-ota-upgrade.md) 📋
+- [连接稳定性与重连](03-蓝牙通信bluetooth/10-连接稳定性与重连connection-stability.md) 📋
+- [调试与问题排查](03-蓝牙通信bluetooth/11-调试与问题排查debugging-and-troubleshooting.md) 📋
 
 ## 04 - 串口通信（Serial Communication）
 
